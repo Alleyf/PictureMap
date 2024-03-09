@@ -1,0 +1,420 @@
+{
+  "picBed": {
+    "current": "github",
+    "uploader": "github",
+    "smms": {
+      "token": "VXGyU5CAaCMyVXwWIhXNnscI6REnNtaC",
+      "backupDomain": "smms.app",
+      "_configName": "Default",
+      "_id": "941871e5-05b3-46f7-8706-259a7d4c55ef",
+      "_createdAt": 1684914808678,
+      "_updatedAt": 1684914808678
+    },
+    "list": [
+      {
+        "type": "tcyun",
+        "name": "腾讯云COS",
+        "visible": false
+      },
+      {
+        "type": "aliyun",
+        "name": "阿里云OSS",
+        "visible": false
+      },
+      {
+        "type": "smms",
+        "name": "SM.MS",
+        "visible": false
+      },
+      {
+        "type": "github",
+        "name": "GitHub",
+        "visible": true
+      },
+      {
+        "type": "qiniu",
+        "name": "七牛云",
+        "visible": true
+      },
+      {
+        "type": "imgur",
+        "name": "Imgur",
+        "visible": false
+      },
+      {
+        "type": "upyun",
+        "name": "又拍云",
+        "visible": false
+      },
+      {
+        "type": "webdavplist",
+        "name": "WebDAV",
+        "visible": true
+      },
+      {
+        "type": "local",
+        "name": "本地上传",
+        "visible": false
+      },
+      {
+        "type": "sftpplist",
+        "name": "内置SFTP",
+        "visible": false
+      },
+      {
+        "type": "telegraphplist",
+        "name": "Telegraph",
+        "visible": true
+      },
+      {
+        "type": "piclist",
+        "name": "PicList",
+        "visible": false
+      },
+      {
+        "type": "lskyplist",
+        "name": "Lsky",
+        "visible": false
+      },
+      {
+        "type": "aws-s3-plist",
+        "name": "AWS S3",
+        "visible": false
+      }
+    ],
+    "github": {
+      "repo": "Alleyf/PictureMap",
+      "token": "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",
+      "path": "web_icons/",
+      "customUrl": "",
+      "branch": "main",
+      "_configName": "Default",
+      "_id": "c2b151a3-06b9-446e-b8c6-f38f46802a29",
+      "_createdAt": 1684914810817,
+      "_updatedAt": 1709095452175
+    },
+    "aliyun": {
+      "accessKeyId": "LTAIupaslTlUlspm",
+      "accessKeySecret": "TE0SmSDE/xzXCC852Evujw==",
+      "bucket": "VKCEYUGU-ec9ea25a-3dcc-4bb1-b163-b484eac2dd86",
+      "area": "ec9ea25a-3dcc-4bb1-b163-b484eac2dd86",
+      "path": "test/",
+      "customUrl": "",
+      "options": ""
+    },
+    "alist": {
+      "version": "3",
+      "url": "https://alist.fcsy.fit/",
+      "path": "baiduyun/PicgoImages",
+      "token": "alist-d7426040-5003-4f99-aec5-d5c0aa4afd87VXTeFOKB4H1XgzO0cEwFkBCZACjfx8aXy4Ny5Y2bQnfyUoU7xgcBFoGAwc6a3itu",
+      "_configName": "Default",
+      "_id": "343d1eda-9183-4e2c-8bf3-d2ab7c5d8ae5",
+      "_createdAt": 1684914812388,
+      "_updatedAt": 1684914812388
+    },
+    "webdavplist": {
+      "_configName": "Default",
+      "_id": "9be2d5d3-381c-48b0-88d2-0bda06e34ef2",
+      "_createdAt": 1692169419255,
+      "_updatedAt": 1692169419255
+    },
+    "local": {
+      "_configName": "Default",
+      "_id": "30d5f31c-4150-4838-8450-5989c0d7d09c",
+      "_createdAt": 1692169423722,
+      "_updatedAt": 1692169423722
+    },
+    "sftpplist": {
+      "_configName": "Default",
+      "_id": "675febad-0871-4b54-9de4-ef22505069a7",
+      "_createdAt": 1697901954369,
+      "_updatedAt": 1697901954369
+    },
+    "telegraphplist": {
+      "_configName": "alleyf-telegraph-pics",
+      "_id": "7604a092-32d1-42b7-9685-4f7212e62a23",
+      "_createdAt": 1697901955205,
+      "_updatedAt": 1709094314644,
+      "proxy": "http://127.0.0.1:7890"
+    },
+    "piclist": {
+      "_configName": "Default",
+      "_id": "ed5c9ec4-4a8f-4e45-bfbe-671b634b244f",
+      "_createdAt": 1698397419945,
+      "_updatedAt": 1698397419945
+    },
+    "qiniu": {
+      "_configName": "abroad",
+      "accessKey": "zlsDfteiKb2EoQCgcdFTRAqDzjhKxvr5L4Qyqig9",
+      "secretKey": "HeDk3u0C-TKdUbZsuQZtNJ2P29C77tJNJSzNXQ9k",
+      "path": "pics/",
+      "bucket": "abroadmap",
+      "url": "https://qnpicmap.fcsluck.top",
+      "area": "as0",
+      "_id": "88c388cb-140a-4053-b243-0b0e918a1516",
+      "_createdAt": 1699851505671,
+      "_updatedAt": 1702185135802,
+      "options": ""
+    },
+    "lskyplist": {
+      "_configName": "Default",
+      "_id": "0c606040-89f1-4605-babd-96ee7c0b2e9c",
+      "_createdAt": 1709094102443,
+      "_updatedAt": 1709094102443
+    },
+    "aws-s3-plist": {
+      "_configName": "Default",
+      "_id": "8c303751-8b26-4306-9ec1-d22d41785b50",
+      "_createdAt": 1709094107440,
+      "_updatedAt": 1709094107440
+    },
+    "proxy": "http://127.0.0.1:7890",
+    "githubPlus": {
+      "_configName": "Default",
+      "_id": "c238dd97-22a0-4745-b3e9-a30f878395ee",
+      "_createdAt": 1709094900312,
+      "_updatedAt": 1709095447222,
+      "repo": "Alleyf/PictureMap",
+      "branch": "main",
+      "token": "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",
+      "path": "Pics",
+      "customUrl": "",
+      "origin": "github"
+    }
+  },
+  "settings": {
+    "shortKey": {
+      "picgo:upload": {
+        "enable": true,
+        "key": "CommandOrControl+Shift+P",
+        "name": "upload",
+        "label": "快捷上传"
+      }
+    },
+    "server": {
+      "port": 36677,
+      "host": "127.0.0.1",
+      "enable": true
+    },
+    "showUpdateTip": true,
+    "uploadNotification": true,
+    "pasteStyle": "markdown",
+    "privacyEnsure": true,
+    "checkBetaUpdate": true,
+    "rename": false,
+    "miniWindowOntop": false,
+    "autoRename": true,
+    "useBuiltinClipboard": true,
+    "isListeningClipboard": false,
+    "deleteCloudFile": true,
+    "miniWindowPosition": [
+      1342,
+      772
+    ],
+    "useShortUrl": false,
+    "encodeOutputURL": true,
+    "proxy": "http://127.0.0.1:7890",
+    "registry": "",
+    "manualPageOpen": "window",
+    "sync": {
+      "type": "github",
+      "username": "Alleyf",
+      "repo": "PictureMap",
+      "branch": "piclist-config",
+      "token": "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",
+      "endpoint": "",
+      "proxy": "",
+      "interval": 60
+    }
+  },
+  "picgoPlugins": {
+    "picgo-plugin-alist": true,
+    "picgo-plugin-github-plus": true,
+    "picgo-plugin-rename-file": true,
+    "picgo-plugin-minio": true
+  },
+  "debug": true,
+  "PICGO_ENV": "GUI",
+  "needReload": false,
+  "uploader": {
+    "smms": {
+      "configList": [
+        {
+          "token": "VXGyU5CAaCMyVXwWIhXNnscI6REnNtaC",
+          "backupDomain": "smms.app",
+          "_configName": "Default",
+          "_id": "941871e5-05b3-46f7-8706-259a7d4c55ef",
+          "_createdAt": 1684914808678,
+          "_updatedAt": 1684914808678
+        }
+      ],
+      "defaultId": "941871e5-05b3-46f7-8706-259a7d4c55ef"
+    },
+    "github": {
+      "configList": [
+        {
+          "repo": "Alleyf/PictureMap",
+          "token": "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",
+          "path": "web_icons/",
+          "customUrl": "",
+          "branch": "main",
+          "_configName": "Default",
+          "_id": "c2b151a3-06b9-446e-b8c6-f38f46802a29",
+          "_createdAt": 1684914810817,
+          "_updatedAt": 1709095452175
+        }
+      ],
+      "defaultId": "c2b151a3-06b9-446e-b8c6-f38f46802a29"
+    },
+    "alist": {
+      "configList": [
+        {
+          "version": "3",
+          "url": "https://alist.fcsy.fit/",
+          "path": "baiduyun/PicgoImages",
+          "token": "alist-d7426040-5003-4f99-aec5-d5c0aa4afd87VXTeFOKB4H1XgzO0cEwFkBCZACjfx8aXy4Ny5Y2bQnfyUoU7xgcBFoGAwc6a3itu",
+          "_configName": "Default",
+          "_id": "343d1eda-9183-4e2c-8bf3-d2ab7c5d8ae5",
+          "_createdAt": 1684914812388,
+          "_updatedAt": 1684914812388
+        }
+      ],
+      "defaultId": "343d1eda-9183-4e2c-8bf3-d2ab7c5d8ae5"
+    },
+    "webdavplist": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "9be2d5d3-381c-48b0-88d2-0bda06e34ef2",
+          "_createdAt": 1692169419255,
+          "_updatedAt": 1692169419255
+        }
+      ],
+      "defaultId": "9be2d5d3-381c-48b0-88d2-0bda06e34ef2"
+    },
+    "local": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "30d5f31c-4150-4838-8450-5989c0d7d09c",
+          "_createdAt": 1692169423722,
+          "_updatedAt": 1692169423722
+        }
+      ],
+      "defaultId": "30d5f31c-4150-4838-8450-5989c0d7d09c"
+    },
+    "sftpplist": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "675febad-0871-4b54-9de4-ef22505069a7",
+          "_createdAt": 1697901954369,
+          "_updatedAt": 1697901954369
+        }
+      ],
+      "defaultId": "675febad-0871-4b54-9de4-ef22505069a7"
+    },
+    "telegraphplist": {
+      "configList": [
+        {
+          "_configName": "alleyf-telegraph-pics",
+          "_id": "7604a092-32d1-42b7-9685-4f7212e62a23",
+          "_createdAt": 1697901955205,
+          "_updatedAt": 1709094314644,
+          "proxy": "http://127.0.0.1:7890"
+        }
+      ],
+      "defaultId": "7604a092-32d1-42b7-9685-4f7212e62a23"
+    },
+    "piclist": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "ed5c9ec4-4a8f-4e45-bfbe-671b634b244f",
+          "_createdAt": 1698397419945,
+          "_updatedAt": 1698397419945
+        }
+      ],
+      "defaultId": "ed5c9ec4-4a8f-4e45-bfbe-671b634b244f"
+    },
+    "qiniu": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "8fa86474-08f8-4ee0-a349-1783308e9641",
+          "_createdAt": 1698976284052,
+          "_updatedAt": 1698980883116,
+          "accessKey": "zlsDfteiKb2EoQCgcdFTRAqDzjhKxvr5L4Qyqig9",
+          "secretKey": "HeDk3u0C-TKdUbZsuQZtNJ2P29C77tJNJSzNXQ9k",
+          "bucket": "alleyfmap",
+          "url": "http://s3j0z30xc.hn-bkt.clouddn.com",
+          "area": "z2",
+          "options": "",
+          "path": "pics/"
+        },
+        {
+          "_configName": "abroad",
+          "accessKey": "zlsDfteiKb2EoQCgcdFTRAqDzjhKxvr5L4Qyqig9",
+          "secretKey": "HeDk3u0C-TKdUbZsuQZtNJ2P29C77tJNJSzNXQ9k",
+          "path": "pics/",
+          "bucket": "abroadmap",
+          "url": "https://qnpicmap.fcsluck.top",
+          "area": "as0",
+          "_id": "88c388cb-140a-4053-b243-0b0e918a1516",
+          "_createdAt": 1699851505671,
+          "_updatedAt": 1702185135802,
+          "options": ""
+        }
+      ],
+      "defaultId": "88c388cb-140a-4053-b243-0b0e918a1516"
+    },
+    "lskyplist": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "0c606040-89f1-4605-babd-96ee7c0b2e9c",
+          "_createdAt": 1709094102443,
+          "_updatedAt": 1709094102443
+        }
+      ],
+      "defaultId": "0c606040-89f1-4605-babd-96ee7c0b2e9c"
+    },
+    "aws-s3-plist": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "8c303751-8b26-4306-9ec1-d22d41785b50",
+          "_createdAt": 1709094107440,
+          "_updatedAt": 1709094107440
+        }
+      ],
+      "defaultId": "8c303751-8b26-4306-9ec1-d22d41785b50"
+    },
+    "githubPlus": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "c238dd97-22a0-4745-b3e9-a30f878395ee",
+          "_createdAt": 1709094900312,
+          "_updatedAt": 1709095447222,
+          "repo": "Alleyf/PictureMap",
+          "branch": "main",
+          "token": "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",
+          "path": "Pics",
+          "customUrl": "",
+          "origin": "github"
+        }
+      ],
+      "defaultId": "c238dd97-22a0-4745-b3e9-a30f878395ee"
+    }
+  },
+  "buildIn": {
+    "rename": {
+      "enable": false,
+      "format": "{Y}-{m}-{d}-{h}-{i}-{s}"
+    }
+  },
+  "picgo-plugin-github-plus": {
+    "lastSync": "2024-02-28 12:37:32"
+  }
+}
